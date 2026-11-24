@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://med-74.github.io/DokkiScan-Website/sitemap.xml
